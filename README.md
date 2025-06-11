@@ -1,6 +1,7 @@
 # 🛡️ Cybersecurity Labs & Write-Ups
 
-Este repositório contém meus estudos, write-ups e anotações de laboratórios realizados durante minha jornada de aprendizado em Cibersegurança.
+Bem-vindo(a) ao meu repositório de estudos em **Cibersegurança**!  
+Aqui organizo os labs que realizei, anotações, write-ups e conceitos que estou aprendendo na prática durante minha jornada para entrar na área.
 
 ## 📂 Estrutura
 
@@ -18,8 +19,12 @@ Este repositório contém meus estudos, write-ups e anotações de laboratórios
 
 - [TryHackMe](https://tryhackme.com)
 - [Hack The Box](https://www.hackthebox.com/)
+- Kali Linux
+- Nmap, Wireshark, Burp Suite, Hydra
+- AWS, Azure e Google Cloud (em breve)
 
 ## 📞 Contato
 
-Se quiser trocar ideia sobre segurança, me chama no https://www.linkedin.com/in/izabela-dos-santos/
+Se quiser trocar ideia sobre segurança, labs ou carreira na área, me chama lá no https://www.linkedin.com/in/izabela-dos-santos/ 🚀
+ 
 
